@@ -1,0 +1,8 @@
+kills;las kills son@
+role;el rol principal es;0;1@
+winrate;el winrate es de@
+wins;las partidas ganadas son;16;0@
+items;los items que mas rinden son;5;2@
+skills;el mejor skillpath es;5;2@
+juegosjugados;la cantidad de juegos jugados son@
+playRate;el promedio de juegos jugados son@

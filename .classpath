@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpclient5-5.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpclient5-cache-5.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpclient5-fluent-5.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpclient5-testing-5.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpclient5-win-5.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpcore5-5.0-beta5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpcore5-h2-5.0-beta5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpcore5-reactive-5.0-beta5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/httpcore5-testing-5.0-beta5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/jna-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/jna-platform-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/lucene-core-7.5.0.jar" sourcepath="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/lucene-core-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/lucene-expressions-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/lucene-queryparser-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/riot-api-java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Agustin/git/ChatBot-LOL/TP Objetos/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,2 +1,2 @@
-# chatbot
-League of legends chatbot
+# Chatbot
+League of legends chatbot for poo final
